@@ -1,5 +1,5 @@
 {
-    "files.associations": {
-        "gst.h": "c"
-    }
+    "editor.formatOnSave": true,
+    "editor.tabSize": 2,
+    "C_Cpp.clang_format_fallbackStyle": "{ BasedOnStyle: LLVM, ColumnLimit: 100, IndentWidth: 2 }"
 }
