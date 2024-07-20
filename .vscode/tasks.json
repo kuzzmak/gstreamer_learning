@@ -26,7 +26,6 @@
                 "kind": "build",
                 "isDefault": true
             },
-            "dependsOn": "Clean Build Directory",
             "problemMatcher": [],
             "detail": "Configure CMake project"
         },
