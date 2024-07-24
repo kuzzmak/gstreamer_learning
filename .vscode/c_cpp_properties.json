@@ -5,7 +5,8 @@
             "includePath": [
                 "${workspaceFolder}/**",
                 "/usr/include/**",
-                "/usr/include/gstreamer-1.0/gst/**"
+                "/usr/include/gstreamer-1.0/gst/**",
+                "/usr/include/gtk-3.0/gtk"
             ],
             "defines": [],
             "compilerPath": "/usr/bin/gcc",
